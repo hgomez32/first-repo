@@ -1,3 +1,3 @@
 # first-repo
 
-# some changes have been made
+some changes have been made
